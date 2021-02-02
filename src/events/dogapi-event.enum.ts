@@ -1,4 +1,4 @@
-export const enum DogapiEvent {
+export enum DogapiEvent {
   Info = 'info',
   Error = 'error',
   Warning = 'warning',
